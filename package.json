@@ -1,0 +1,22 @@
+{
+  "name": "event-organizer",
+  "version": "1.0.0",
+  "description": "Event Organizer API",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Raja Khan",
+  "license": "ISC",
+
+  "engines": {
+    "node": ">=4.3.2"
+  },
+  "scripts": {
+    "start": "node app.js"
+  },
+  "dependencies": {
+    "express": "4.14.1"
+  }
+
+}
